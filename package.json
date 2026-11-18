@@ -1,0 +1,13 @@
+{
+  "name": "astro-sitemap-chunk-url-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "astro build",
+    "verify": "node verify.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "3.7.6",
+    "astro": "7.4.13"
+  }
+}

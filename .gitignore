@@ -1,0 +1,4 @@
+.astro/
+.main-sitemap/
+dist/
+node_modules/
